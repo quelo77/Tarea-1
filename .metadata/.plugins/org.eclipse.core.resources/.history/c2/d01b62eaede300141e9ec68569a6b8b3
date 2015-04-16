@@ -1,0 +1,14 @@
+package org.junit;
+
+public class Test{
+		
+		@Test
+		public void TestDeOperaciones{
+			Test cuadrado1=new Test(6);
+			cuadrado1.obtenerPerimetro;
+			cuadrado1.obtenerArea;
+			System.out.println("El perimetro del cuadrado es "+cuadrado1(6));
+			System.out.println("El area del cuadrado es "+cuadrado1(6));
+		}
+	}
+}
